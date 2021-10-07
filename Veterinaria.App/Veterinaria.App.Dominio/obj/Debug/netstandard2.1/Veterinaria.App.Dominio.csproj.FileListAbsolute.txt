@@ -1,0 +1,9 @@
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.csprojAssemblyReference.cache
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.AssemblyInfo.cs
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\bin\Debug\netstandard2.1\Veterinaria.App.Dominio.deps.json
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\bin\Debug\netstandard2.1\Veterinaria.App.Dominio.dll
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\bin\Debug\netstandard2.1\Veterinaria.App.Dominio.pdb
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.dll
+C:\Users\TUF\Documents\01OctubreVete\Veterinaria.App\Veterinaria.App.Dominio\obj\Debug\netstandard2.1\Veterinaria.App.Dominio.pdb
